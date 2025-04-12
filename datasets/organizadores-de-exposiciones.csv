@@ -1,0 +1,14 @@
+periodo;nombre;calle;altura;piso-depto;telefono;web;mail;barrio;comuna;codigo_postal;codigo_postal_argentino;lat;long
+2023;Centro Costa Salguero;Av. Obligado Rafael y Jerónimo Salguero;;;5411-5093;www.ccs.com.ar;info@ccs.com.ar;Palermo;Comuna 14;;;-34,569349;-58,400133
+2023;Ferias Argentinas S.A.;Viamonte;640;PISO 8;4394-1113;www.feriarg.com.ar;info@feriarg.com.ar;San Nicolas;Comuna 1;1053;C1053ABN;-34,599903;-58,375937
+2023;Furlong Fox SA;Carlos Pellegrini;1023;PISO 12;4108-3200;www.furlong-fox.com.ar;convenciones@furlong-fox.com.ar;Retiro;Comuna 1;1009;C1009ABU;-34,596306;-58,381357
+2023;Indexport Messe Frankfurt;Av. Luis Maria Campos;1061;PISO 5;4514-1400;www.indexport.com.ar;info@indexport.com.ar;Palermo;Comuna 14;1426;C1426BOI;-34,566563;-58,438818
+2023;La Rural;Av. Santa Fé;4215;PB;4777-5500;www.larural.com;info@larural.com.ar;Palermo;Comuna 14;1425;C1425BHE;-34,580186;-58,42243
+2023;Neptuno Meeting Planners;Arenales;961;PISO 10 DEPTO 48;5278-1300;www.neptuno.tur.ar;info@;Retiro;Comuna 1;1061;C1061AAE;-34,5941;-58,380855
+2023;Palais Rouge;Jeronimo Salguero;1433;;4823-2649;www.palaisrouge.com.ar;info@palaisrouge.com.ar;Palermo;Comuna 14;1177;C1177AFA;-34,59355;-58,41814
+2023;Publitec;Av. Honorio Pueyrredon;550;;4903-9600/1 (rot.);www.publitec.com.ar;info@publitec.com.ar;Caballito;Comuna 6;1405;C1405BAP;-34,613506;-58,441335
+2023;Turicentro Viajes S.A.;Cabrera;5958;;5258-0833;www.turicentro.com.ar;buenosaires@turicentro.com.ar;Palermo;Comuna 14;;;;
+2023;Uniline Exhibitions S.A.;Av. Córdoba;632;PISO 11;4322-5707;www.uniline.com.ar;info@uniline.com.ar;San Nicolas;Comuna 1;1054;C1054AAS;-34,598835;-58,376047
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

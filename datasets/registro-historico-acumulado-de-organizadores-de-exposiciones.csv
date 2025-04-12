@@ -1,0 +1,27 @@
+periodo,nombre,calle,altura,piso-depto,telefono,web,mail,barrio,comuna,codigo_postal,codigo_postal_argentino,lat,long
+2016,TURICENTRO VIAJES,AV. DEL LIBERTADOR,602.0,PISO 21 DPTO A,4815-5900,www.turicentro.com.ar,gerencia@turicentro.com.ar,RETIRO,COMUNA 1,1001.0,C1001ABT,"-34,5887247","-58,38225891"
+2016,UNILINE EXHIBITIONS,AV. CORDOBA,632.0,PISO 11,4322-5707,www.uniline.com.ar,info@uniline.com.ar,SAN NICOLAS,COMUNA 1,1054.0,C1054AAS,"-34,59883264","-58,37604669"
+2016,MARIANO JOSE DELISIO (BAYFEM),AV. CORDOBA,2302.0,PISO 6 DPTO K,4951-8139,www.bayfem.com.ar,info@bayfem.com.ar,BALVANERA,COMUNA 3,1120.0,C1120AAS,"-34,59968969","-58,4000318"
+2016,FERIAS ARGENTINAS,VIAMONTE,640.0,PISO 8,4394-1113,http://ferias-argentinas.com/,info@feriarg.com.ar,SAN NICOLAS,COMUNA 1,1053.0,C1053ABN,"-34,59990022","-58,3759365"
+2016,INDEXPORT  MESSE FRANKFURT,AV. LUIS M. CAMPOS,1061.0,PISO 5,4514-1400,www.indexport.com.ar,info@indexport.com.ar,PALERMO,COMUNA 14,1426.0,C1426BOI,"-34,56656015","-58,43881756"
+2016,PUBLITEC,AV. DR. HONORIO PUEYRREDON,550.0,,4903-9600,www.publitec.com.ar,info@publitec.com.ar,CABALLITO,COMUNA 6,1405.0,C1405BAP,"-34,61350301","-58,44133484"
+2016,FURLONG FOX,CARLOS PELLEGRINI,1023.0,PISO 12,4108-3200,www.furlong-fox.com.ar,convenciones@furlong-fox.com.ar,RETIRO,COMUNA 1,1009.0,C1009ABU,"-34,5963033","-58,38135614"
+2016,NEPTUNO MEETING PLANNERS,ARENALES,961.0,PISO 10 DPTO 48,5278-1300,www.neptuno.tur.ar,,RETIRO,COMUNA 1,1061.0,C1061AAE,"-34,59409749","-58,38085406"
+2017,FERIAS ARGENTINAS S.A.,VIAMONTE,640.0,PISO 8,4394-1113,www.ferias-argentinas.com,info@feriarg.com.ar,SAN NICOLAS,COMUNA 1,1053.0,C1053ABN,"-34,59990022","-58,3759365"
+2017,FURLONG FOX SA,CARLOS PELLEGRINI,1023.0,PISO 12,4108-3200,www.furlong-fox.com.ar,convenciones@furlong-fox.com.ar,RETIRO,COMUNA 1,1009.0,C1009ABU,"-34,5963033","-58,38135614"
+2017,INDEXPORT MESSE FRANKFURT,AV. LUIS MARIA CAMPOS,1061.0,PISO 5,4514-1400,www.ar.messefrankfurt.com/buenosaires/es/messe/messe-frankfurt-argentina.html,info@indexport.com.ar,PALERMO,COMUNA 14,1426.0,C1426BOI,"-34,56656015","-58,43881756"
+2017,LA RURAL,AV. SANTA FE,4215.0,PB,4777-5500,www.larural.com,info@larural.com.ar,PALERMO,COMUNA 14,1425.0,C1425BHE,"-34,580183","-58,42243009"
+2017,NEPTUNO MEETING PLANNERS,ARENALES,961.0,PISO 10 DPTO 48,5278-1300,www.neptuno.tur.ar,,RETIRO,COMUNA 1,1061.0,C1061AAE,"-34,59409749","-58,38085406"
+2017,PALAIS ROUGE,JERONIMO SALGUERO,1433.0,,4823-2649,www.palaisrouge.com.ar,info@palaisrouge.com.ar,PALERMO,COMUNA 14,1177.0,C1177AFA,"-34,59354732","-58,41813962"
+2017,PUBLITEC,AV. HONORIO PUEYRREDON,550.0,,4903-9600/1 (ROT.),www.publitec.com.ar,info@publitec.com.ar,CABALLITO,COMUNA 6,1405.0,C1405BAP,"-34,61350301","-58,44133484"
+2017,UNILINE EXHIBITIONS S.A.,AV. CORDOBA,632.0,PISO 11,4322-5707,www.uniline.com.ar,info@uniline.com.ar,SAN NICOLAS,COMUNA 1,1054.0,C1054AAS,"-34,59883264","-58,37604669"
+2017,CENTRO COSTA SALGUERO,AV OBLIGADO RAFAEL Y JERONIMO SALGUERO,,,5411-5093,www.ccs.com.ar,info@ccs.com.ar,PALERMO,COMUNA 14,,,"-34,569346","-58,400133"
+2018,Centro Costa Salguero,Av. Obligado Rafael y Jerónimo Salguero,,,5411-5093,www.ccs.com.ar,info@ccs.com.ar,Palermo,Comuna 14,,,-34.569349,-58.400133
+2018,Ferias Argentinas S.A.,Viamonte,640,PISO 8,4394-1113,www.ferias-argentinas.com,info@feriarg.com.ar,San Nicolas,Comuna 1,1053,C1053ABN,-34.599903,-58.375937
+2018,Furlong Fox SA,Carlos Pellegrini,1023,PISO 12,4108-3200,www.furlong-fox.com.ar,convenciones@furlong-fox.com.ar,Retiro,Comuna 1,1009,C1009ABU,-34.596306,-58.381357
+2018,Indexport Messe Frankfurt,Av. Luis Maria Campos,1061,PISO 5,4514-1400,www.ar.messefrankfurt.com/buenosaires/es/messe/messe-frankfurt-argentina.html,info@indexport.com.ar,Palermo,Comuna 14,1426,C1426BOI,-34.566563,-58.438818
+2018,La Rural,Av. Santa Fé,4215,PB,4777-5500,www.larural.com,info@larural.com.ar,Palermo,Comuna 14,1425,C1425BHE,-34.580186,-58.422430
+2018,Neptuno Meeting Planners,Arenales,961,PISO 10 DEPTO 48,5278-1300,www.neptuno.tur.ar,info@,Retiro,Comuna 1,1061,C1061AAE,-34.594100,-58.380855
+2018,Palais Rouge,Jeronimo Salguero,1433,,4823-2649,www.palaisrouge.com.ar,info@palaisrouge.com.ar,Palermo,Comuna 14,1177,C1177AFA,-34.593550,-58.418140
+2018,Publitec,Av. Honorio Pueyrredon,550,,4903-9600/1 (rot.),www.publitec.com.ar,info@publitec.com.ar,Caballito,Comuna 6,1405,C1405BAP,-34.613506,-58.441335
+2018,Uniline Exhibitions S.A.,Av. Córdoba,632,PISO 11,4322-5707,www.uniline.com.ar,info@uniline.com.ar,San Nicolas,Comuna 1,1054,C1054AAS,-34.598835,-58.376047
